@@ -1,0 +1,22 @@
+.navbar{min-height: 100px;}
+
+.navbar-brandv img{
+    max-height: 100px;
+    max-width: 100px;
+}
+
+
+.menu{
+    align-items: flex-end;
+    
+}
+
+.slider{
+    margin-top: 100px;
+    max-width: 100%;
+}
+
+.slider img{
+    max-height: auto;
+    max-width: 100%;
+}
