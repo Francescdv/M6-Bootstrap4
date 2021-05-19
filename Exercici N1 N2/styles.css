@@ -3,6 +3,7 @@
 .navbar-brandv img{
     max-height: 100px;
     max-width: 100px;
+
 }
 
 
@@ -12,13 +13,16 @@
 }
 
 .slider{
+    margin: 10%;
     margin-top: 100px;
     max-width: 100%;
+    padding: 30px 30px 30px 30px;
 }
 
 .slider img{
     max-height: auto;
     max-width: 100%;
+    
 }
 
 
@@ -26,3 +30,4 @@
 #espai{margin-right: 40px ;
 }
 }
+
